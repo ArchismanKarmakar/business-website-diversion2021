@@ -1,4 +1,4 @@
-# Making business Website similar to ITC-hotels-codepeak2021
+# Making Hotel business Website similar to ITC-hotels-codepeak2021
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
