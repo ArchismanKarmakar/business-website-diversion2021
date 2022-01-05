@@ -27,7 +27,7 @@ You can refer to the following articles on the basics of Git and Github and also
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
-### Scoring criteria for IIT Patna + IIT Guwahati Codepeak 2021: 
+### Scoring criteria : 
 - For merging very easy issue assign 1 point.
 - For merging easy issue assign 3-4 points.
 - For merging MED issue assign 5-7 points.
@@ -50,9 +50,10 @@ You can refer to the following articles on the basics of Git and Github and also
 - HTML5/CSS3/JavaScript (Basics)
 #
 ### SiteMap
-![Sitemap](https://user-images.githubusercontent.com/92569441/145706517-dd4d8722-cbc5-4850-8535-ad339165ece9.png)
-
-![map](https://user-images.githubusercontent.com/92569441/145590394-73a5533a-b4ff-4d18-9097-92d347030174.png)
+![map1](https://user-images.githubusercontent.com/92569441/145706517-dd4d8722-cbc5-4850-8535-ad339165ece9.png)
+#
+#
+```![map](https://user-images.githubusercontent.com/92569441/145590394-73a5533a-b4ff-4d18-9097-92d347030174.png)```discarded
 
 
 ### Tasks
