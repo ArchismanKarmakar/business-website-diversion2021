@@ -27,7 +27,7 @@ You can refer to the following articles on the basics of Git and Github and also
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this Script is all about.
 
-### Scoring criteria : 
+### Scoring criteria Codepeak 2021 : 
 - For merging very easy issue assign 1 point.
 - For merging easy issue assign 3-4 points.
 - For merging MED issue assign 5-7 points.
