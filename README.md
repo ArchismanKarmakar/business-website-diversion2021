@@ -1,4 +1,4 @@
-# Making Hotel business Website similar to ITC-hotels-codepeak2021 aka. MERN STACK HOTEL WEBSITE
+MERN STACK HOTEL WEBSITE MAKING ```Diversion 2021-22```
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
