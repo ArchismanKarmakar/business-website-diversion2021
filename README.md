@@ -1,4 +1,4 @@
-# Making Hotel business Website similar to ITC-hotels-codepeak2021 aka HOTEL WEBSITE
+# Making Hotel business Website similar to ITC-hotels-codepeak2021 aka. MERN STACK HOTEL WEBSITE
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
