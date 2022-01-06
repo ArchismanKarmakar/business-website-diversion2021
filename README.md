@@ -1,5 +1,7 @@
 # MERN STACK HOTEL WEBSITE MAKING ```Diversion 2021-22```
 
+## Project Mentor: [GitHub Profile](https://github.com/ArchismanKarmakar), [LinkedIn](https://www.linkedin.com/in/archismankarmakar/)
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
