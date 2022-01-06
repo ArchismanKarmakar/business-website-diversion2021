@@ -1,4 +1,4 @@
-MERN STACK HOTEL WEBSITE MAKING ```Diversion 2021-22```
+# MERN STACK HOTEL WEBSITE MAKING ```Diversion 2021-22```
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
