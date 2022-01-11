@@ -50,7 +50,7 @@ You can refer to the following articles on the basics of Git and Github and also
 - MongoDB or Firebase
 - ReactJS
 - Express
-- HTML5/CSS3/JavaScript (Basics)
+- HTML5/CSS3/JavaScript
 #
 ### SiteMap
 ![map1](https://user-images.githubusercontent.com/92569441/145706517-dd4d8722-cbc5-4850-8535-ad339165ece9.png)
