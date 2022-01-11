@@ -1,3 +1,7 @@
+# The Royal MERN
+
+#### The Royal Bengal is a modern Hotel Suite Website. RBH is regularly voted amongst the best employers in Asia in the hospitality sector. It has a franchise agreement to operate most of its hotels as part of The Luxury Collection of Marriott International. So, we need to create a business ready website for the RBH team. It will be good practice of MERN stack. So, let's jump into the project!
+
 # MERN STACK HOTEL WEBSITE MAKING ```Diversion 2021-22```
 
 ## Project Mentor: [GitHub Profile](https://github.com/ArchismanKarmakar), [LinkedIn](https://www.linkedin.com/in/archismankarmakar/)
@@ -5,7 +9,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-## This project is for getting a hotel business ready website similar to ITC Hotels website. So, let's get started. It will be a very good practice. So, let's begin!
+<!-- ## This project is for getting a hotel business ready website similar to ITC Hotels website. So, let's get started. It will be a very good practice. So, let's begin! -->
 
 
 ## ⭐ How to get started?
