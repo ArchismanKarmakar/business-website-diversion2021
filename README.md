@@ -1,6 +1,6 @@
 # The MERN Interactive
 
-#### The Royal MERN is a modern Hotel Suite. The Royal Bengal is regularly voted amongst the best employers in Asia in the hospitality sector. It has a franchise agreement to operate most of its hotels as part of The Luxury Collection of Marriott International. So, we need to create a business ready website for the RBH team and we are calling it the MERN Interactive. It will be good practice of MERN stack. So, let's jump into the project!
+#### The Royal Bengal is a modern Hotel Suite. The Royal Bengal is regularly voted amongst the best employers in Asia in the hospitality sector. It has a franchise agreement to operate most of its hotels as part of The Luxury Collection of Marriott International. So, we need to create a business ready website for the RBH team and we are calling it the MERN Interactive. It will be good practice of MERN stack. So, let's jump into the project!
 
 # MERN STACK HOTEL WEBSITE MAKING ```Diversion 2021-22```
 
