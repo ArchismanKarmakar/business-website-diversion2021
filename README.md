@@ -7,6 +7,9 @@
 
 ## This project is for getting a hotel business ready website similar to ITC Hotels website. So, let's get started. It will be a very good practice. So, let's begin!
 
+## About this project.
+#### This will be a complete business ready Hotel website using MERN stack. It is quite similar to ITC Hotels.
+
 ## ⭐ How to get started?
 
 You can refer to the following articles on the basics of Git and Github and also contact the Project Mentors, in case you are stuck:
