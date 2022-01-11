@@ -47,6 +47,8 @@ You can refer to the following articles on the basics of Git and Github and also
 ### Prerequisites
 
 - <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </svg> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/> <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+- Tailwind CSS
+- Express JS
 #
 ### SiteMap
 ![map1](https://user-images.githubusercontent.com/92569441/145706517-dd4d8722-cbc5-4850-8535-ad339165ece9.png)
